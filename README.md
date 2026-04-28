@@ -1,4 +1,5 @@
 # 👋 Hello, I'm M.K Fahmi (MohFahmiMc)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/k6rtu/k6rtu/master/assets/dino.gif" width="100%" alt="Chrome Dino Run">
 </p>
@@ -12,9 +13,6 @@
 
 ### Profile Summary
 I am a **Full-Stack Developer** focused on Android ecosystems and system-level architecture. I specialize in developing efficient solutions for mobile storage management and performance optimization across multiple platforms.
-* ⚡ **Core Competencies:** Full-stack development from low-level logic to high-performance interfaces.
-* 📱 **System Optimization:** Experienced in optimizing applications for resource-constrained hardware.
-* 🔍 **Research:** Exploring Scoped Storage, SAF, and Android system internals.
 
 ---
 
