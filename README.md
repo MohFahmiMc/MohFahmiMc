@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/k6rtu/k6rtu/master/assets/dino.gif" width="100%" alt="Chrome Dino Run">
 </p>
 <p align="center">
-  <a href="https://discord.com/users/1099980838722088991">
-    <img src="https://lanyard.vercel.app/api/1099980838722088991?theme=dark&bg=1a1b27&animated=true" alt="Discord Status" />
+  <a href="https://discord-catwidget.koyeb.app/widget/1099980838722088991.png?t=123456789">
+    <img src="https://discord-catwidget.koyeb.app/widget/1099980838722088991.png?t=123456789" alt="Discord Status" />
   </a>
 </p>
 
