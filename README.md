@@ -1,8 +1,7 @@
 # ⚡ Senior Software Engineer | Android & Full-stack Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=M.K%20FAHMI&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Termux%20Enthusiast%20|%20Android%20&descAlignY=63" alt="M.K FAHMI Header">
-</p>
+![Discord Widget](https://discord-catwidget.koyeb.app/widget/1099980838722088991.png)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/k6rtu/k6rtu/master/assets/dino.gif" width="100%" alt="Dino Run">
 </p>
